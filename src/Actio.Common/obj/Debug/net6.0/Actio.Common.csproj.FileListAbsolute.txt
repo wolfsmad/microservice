@@ -1,0 +1,12 @@
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\bin\Debug\net6.0\Actio.Common.deps.json
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\bin\Debug\net6.0\Actio.Common.dll
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\bin\Debug\net6.0\ref\Actio.Common.dll
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\bin\Debug\net6.0\Actio.Common.pdb
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\obj\Debug\net6.0\Actio.Common.csproj.AssemblyReference.cache
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\obj\Debug\net6.0\Actio.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\obj\Debug\net6.0\Actio.Common.AssemblyInfoInputs.cache
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\obj\Debug\net6.0\Actio.Common.AssemblyInfo.cs
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\obj\Debug\net6.0\Actio.Common.csproj.CoreCompileInputs.cache
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\obj\Debug\net6.0\Actio.Common.dll
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\obj\Debug\net6.0\ref\Actio.Common.dll
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\obj\Debug\net6.0\Actio.Common.pdb
