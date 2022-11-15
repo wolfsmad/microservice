@@ -25,3 +25,5 @@ C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Services.Identity\
 C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Services.Identity\obj\Debug\net6.0\ref\Actio.Services.Identity.dll
 C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Services.Identity\obj\Debug\net6.0\Actio.Services.Identity.pdb
 C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Services.Identity\obj\Debug\net6.0\Actio.Services.Identity.genruntimeconfig.cache
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Services.Identity\bin\Debug\net6.0\Actio.Common.dll
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Services.Identity\bin\Debug\net6.0\Actio.Common.pdb

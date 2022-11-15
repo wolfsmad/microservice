@@ -72,6 +72,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Actio.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Actio.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Actio.Common.dll": {}
+        }
       }
     }
   },
@@ -200,10 +210,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Actio.Common/1.0.0": {
+      "type": "project",
+      "path": "../Actio.Common/Actio.Common.csproj",
+      "msbuildProject": "../Actio.Common/Actio.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Actio.Common >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -237,7 +253,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\wolf\\Desktop\\sln microservice\\microservice\\src\\Actio.Common\\Actio.Common.csproj": {
+              "projectPath": "C:\\Users\\wolf\\Desktop\\sln microservice\\microservice\\src\\Actio.Common\\Actio.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

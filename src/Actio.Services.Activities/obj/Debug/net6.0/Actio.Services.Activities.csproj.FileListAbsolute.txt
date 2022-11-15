@@ -25,3 +25,5 @@ C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Services.Activitie
 C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Services.Activities\obj\Debug\net6.0\ref\Actio.Services.Activities.dll
 C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Services.Activities\obj\Debug\net6.0\Actio.Services.Activities.pdb
 C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Services.Activities\obj\Debug\net6.0\Actio.Services.Activities.genruntimeconfig.cache
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Services.Activities\bin\Debug\net6.0\Actio.Common.dll
+C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Services.Activities\bin\Debug\net6.0\Actio.Common.pdb
