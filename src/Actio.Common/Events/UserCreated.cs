@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Actio.Common.Events
 {
-    public interface UserCreated : IEvent
+    public class UserCreated : IEvent
     {
         public string Email { get; }
         public string Name { get; }
