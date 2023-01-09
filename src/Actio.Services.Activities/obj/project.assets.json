@@ -2429,7 +2429,7 @@
       },
       "Actio.Common/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "Microsoft.AspNetCore": "2.0.0",
           "Microsoft.AspNetCore.Hosting": "2.0.0",
@@ -7438,11 +7438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\wolf\\Desktop\\sln microservice\\microservice\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
+      "projectUniqueName": "C:\\Users\\wolf\\Desktop\\sln microservice\\microservice\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
       "projectName": "Actio.Services.Activities",
-      "projectPath": "c:\\Users\\wolf\\Desktop\\sln microservice\\microservice\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
+      "projectPath": "C:\\Users\\wolf\\Desktop\\sln microservice\\microservice\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
       "packagesPath": "C:\\Users\\wolf\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\wolf\\Desktop\\sln microservice\\microservice\\src\\Actio.Services.Activities\\obj\\",
+      "outputPath": "C:\\Users\\wolf\\Desktop\\sln microservice\\microservice\\src\\Actio.Services.Activities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7462,8 +7462,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\wolf\\Desktop\\sln microservice\\microservice\\src\\Actio.Common\\Actio.Common.csproj": {
-              "projectPath": "c:\\Users\\wolf\\Desktop\\sln microservice\\microservice\\src\\Actio.Common\\Actio.Common.csproj"
+            "C:\\Users\\wolf\\Desktop\\sln microservice\\microservice\\src\\Actio.Common\\Actio.Common.csproj": {
+              "projectPath": "C:\\Users\\wolf\\Desktop\\sln microservice\\microservice\\src\\Actio.Common\\Actio.Common.csproj"
             }
           }
         }

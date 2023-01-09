@@ -1,5 +1,8 @@
-﻿namespace Actio.Common;
-public class Class1
-{
+﻿using System;
 
+namespace Actio.Common
+{
+    public class Class1
+    {
+    }
 }

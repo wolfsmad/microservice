@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zdbeKtgOwNkKiDxPHFe2yyMJhqMYrpaNUM2LNpKUI4+Cyt63r2fZTvbOcytH+xyl5WJIgedKnfztKKnasqng3Q==",
+  "dgSpecHash": "/J0fkki9QPXVMsFXPE8Hluon6QOvAtCUriaXEkuJjFgVFcQwtK3+A1Qf0LNWQW7fBNNnMYr8RSnfVmveYX6eQQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\wolf\\Desktop\\sln microservice\\microservice\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
+  "projectFilePath": "C:\\Users\\wolf\\Desktop\\sln microservice\\microservice\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\wolf\\.nuget\\packages\\microsoft.aspnetcore\\2.0.0\\microsoft.aspnetcore.2.0.0.nupkg.sha512",
