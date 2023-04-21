@@ -8,3 +8,13 @@ C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\bin\Debug\n
 C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\bin\Debug\netcoreapp2.0\Actio.Common.pdb
 C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\obj\Debug\netcoreapp2.0\Actio.Common.dll
 C:\Users\wolf\Desktop\sln microservice\microservice\src\Actio.Common\obj\Debug\netcoreapp2.0\Actio.Common.pdb
+C:\Users\shadow\Desktop\microservice\src\Actio.Common\bin\Debug\netcoreapp2.0\Actio.Common.deps.json
+C:\Users\shadow\Desktop\microservice\src\Actio.Common\bin\Debug\netcoreapp2.0\Actio.Common.dll
+C:\Users\shadow\Desktop\microservice\src\Actio.Common\bin\Debug\netcoreapp2.0\Actio.Common.pdb
+C:\Users\shadow\Desktop\microservice\src\Actio.Common\obj\Debug\netcoreapp2.0\Actio.Common.csproj.AssemblyReference.cache
+C:\Users\shadow\Desktop\microservice\src\Actio.Common\obj\Debug\netcoreapp2.0\Actio.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shadow\Desktop\microservice\src\Actio.Common\obj\Debug\netcoreapp2.0\Actio.Common.AssemblyInfoInputs.cache
+C:\Users\shadow\Desktop\microservice\src\Actio.Common\obj\Debug\netcoreapp2.0\Actio.Common.AssemblyInfo.cs
+C:\Users\shadow\Desktop\microservice\src\Actio.Common\obj\Debug\netcoreapp2.0\Actio.Common.csproj.CoreCompileInputs.cache
+C:\Users\shadow\Desktop\microservice\src\Actio.Common\obj\Debug\netcoreapp2.0\Actio.Common.dll
+C:\Users\shadow\Desktop\microservice\src\Actio.Common\obj\Debug\netcoreapp2.0\Actio.Common.pdb
